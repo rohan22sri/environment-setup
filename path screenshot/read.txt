@@ -1,0 +1,1 @@
+the attached screenshot is for 'path' under user variable in environment variable .
